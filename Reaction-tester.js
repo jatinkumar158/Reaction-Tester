@@ -1,4 +1,4 @@
-<script type="text/javascript">
+
         
             var startTime=new Date().getTime();
             var flag=0;
@@ -58,4 +58,4 @@
                 startTime=new Date().getTime();
                 flag++;
             }
-        </script>
+        
